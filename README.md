@@ -1,49 +1,62 @@
-🦖 Dino Run - Python Game
 
-Dino Run is a simple endless runner game built using Python and Pygame, inspired by the classic Chrome browser dinosaur game.
+## 🦖 Dino Run - Python Game
 
-🎮 Game Features
-Control a dinosaur that runs across the screen
+A simple and fun endless runner game built using **Python** and **Pygame**, inspired by the classic offline Chrome Dino game.
 
-Jump to avoid obstacles like cacti and birds
+![Dino Run Banner](https://your-image-link-if-any) <!-- Optional: Replace with a real screenshot URL -->
 
-Increasing difficulty as the game progresses
+### 🎮 Game Features
 
-Real-time score tracking
+* 🦕 Dinosaur character runs automatically
+* 🌵 Jump to avoid cacti and flying obstacles
+* 📈 Increasing speed/difficulty over time
+* 💯 Real-time score tracking
+* 🔄 Game Over screen with restart option
 
-Game over screen and restart option
+### 🛠️ Technologies Used
 
-🛠️ Technologies Used
-Python 3
+* **Python 3**
+* **Pygame**
 
-Pygame library
+### 🚀 Getting Started
 
-🚀 How to Run
-Make sure Python and Pygame are installed:
+1. **Clone the repository**
 
-bash
-Copy
-Edit
-pip install pygame
-Clone the repository and run the game:
+   ```bash
+   git clone https://github.com/satyakoushik01/Dino-Run.git
+   cd Dino-Run
+   ```
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/dino-run.git
-cd dino-run
-python main.py
-📸 Screenshots
-Add a few screenshots here if available.
+2. **Install dependencies**
+   Make sure `pygame` is installed:
 
-📁 Folder Structure
-bash
-Copy
-Edit
-dino-run/
-│
-├── assets/           # Images, sounds
-├── main.py           # Main game logic
-└── README.md         # Game description
-📌 About
-This project was developed as a fun way to explore game development using Python and to build logic for event handling, collision detection, and animation.
+   ```bash
+   pip install pygame
+   ```
+
+3. **Run the game**
+
+   ```bash
+   python main.py
+   ```
+
+### 📂 Project Structure
+
+```
+Dino-Run/
+├── assets/         # Images, sprites, and sounds
+├── main.py         # Main game logic
+└── README.md       # Project documentation
+```
+
+### 📸 Screenshots
+
+*(Add screenshots of your game in action here if available to enhance the README)*
+
+### 📌 About the Developer
+
+Developed by **[Venkata Satya Koushik Devarabhotla](https://github.com/satyakoushik01)** as a beginner Python game development project.
+
+---
+
+Let me know if you’d like a logo, GIF gameplay demo, or badges (like Python version, license, etc.) added!
